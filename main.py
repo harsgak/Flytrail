@@ -43,7 +43,26 @@ while(cap.isOpened()):
     
     threshdiffblur = cv2.medianBlur(threshdiff,5)
     cv2.imshow('fly_silhouette',threshdiffblur)
-    
+   
+    try:
+        img,contours,hierarchy = cv2.findContours(threshdiffblur, 1, 2)
+        cnt = contours[0]
+
+        (x,y),radius = cv2.minEnclosingCircle(cnt)
+        center = (int(x),int(y))
+        radius = int(radius)
+
+        cv2.circle(gray,center,radius,(0,255,0),2)
+        cv2.imshow('flyingray',gray)
+
+    except Exception as e:
+    	print(e)
+    	pass
+   		#raise e
+
+
+
+
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
