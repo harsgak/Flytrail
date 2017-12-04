@@ -1,7 +1,7 @@
 # Flytrail
+Track a fly navigating a maze.  
 
-[![Join the chat at https://gitter.im/flytrail/Lobby](https://badges.gitter.im/flytrail/Lobby.svg)](https://gitter.im/flytrail/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Track a fly navigating a maze.
+[![Join the chat at https://gitter.im/flytrail/Lobby](https://badges.gitter.im/flytrail/Lobby.svg)](https://gitter.im/flytrail/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
 ## Intro
 I have a video lying around from 3rd sem BioLab. Its a fly finding an exit through a 2D maze. 
