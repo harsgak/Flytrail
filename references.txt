@@ -1,0 +1,2 @@
+http://bytefish.de/blog/extracting_contours_with_opencv/
+http://cbarker.net/opencv/
