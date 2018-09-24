@@ -27,6 +27,11 @@ Output: An array of tuples strings "Section_i —> Section_j : t"
 Video : https://drive.google.com/open?id=0B9FrkQRqB6LURVBNVnFhUnNjaW8  
 Map   : https://drive.google.com/open?id=0B9FrkQRqB6LUc0pScGwxM284ckU
 
+Video-preview  
+![Video-preview](https://drive.google.com/thumbnail?id=0B9FrkQRqB6LURVBNVnFhUnNjaW8)  
+Map-preview  
+![Map-preview](https://drive.google.com/thumbnail?id=0B9FrkQRqB6LUc0pScGwxM284ckU)
+
 
 ## Status
 Task 1 complete
